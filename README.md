@@ -198,7 +198,7 @@ Contributions from the machine learning and compiler engineering communities are
 
 1. Fork this repository: `https://github.com/ishandutta2007/Awesome-Model-Optimization-Sparsification`
 2. Create your feature branch: `git checkout -b feature/new-optimization-tool`
-3. Add your entry following the established tabular format (include tool name, verified pricing, free tier limits, star badges, and links).
+3. Add your entry following the established tabular format (include tool name, verified pricing, free tier limits, Stars_Badges, and links).
 4. For awesome lists curated by the author, visit [Awesome-Awesome-Awesome](https://github.com/ishandutta2007/Awesome-Awesome-Awesome).
 5. Open a Pull Request with a clear description of the project and why it belongs in the ecosystem directory.
 
